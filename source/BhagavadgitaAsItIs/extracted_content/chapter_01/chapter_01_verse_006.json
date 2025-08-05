@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 1,
+    "Verse": 6,
+    "Sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥",
+    "Transliteration": "yudhāmanyuś ca vikrānta\nuttamaujāś ca vīryavān\nsaubhadro draupadeyāś ca\nsarva eva mahā-rathāḥ",
+    "Word_by_word": "yudhāmanyuh—Yudhāmanyu; ca—and; vikrāntaḥ—mighty; uttamaujāḥ—Uttamaujā; ca—and; vīryavān—very powerful; saubhadraḥ—the son of Subhadrā; draupadeyāḥ—the sons of Draupadī; ca—and; sarve—all; eva—certainly; mahā-rathāḥ—great chariot fighters.",
+    "Translation": "There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters.",
+    "Purport": ""
+  },
+  "metadata": {
+    "source_file": "chapter01_verse_006.pdf",
+    "extraction_timestamp": "2025-07-05T17:06:36.140120",
+    "model_used": "gemini-2.5-flash"
+  }
+}

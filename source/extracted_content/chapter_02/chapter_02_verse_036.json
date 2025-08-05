@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 2,
+    "Verse": 36,
+    "Sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥ ३६ ॥",
+    "Transliteration": "avācya-vādāmś ca bahūn\nvadiṣyanti tavāhitāḥ\nnindantas tava sāmarthyam\ntato duhkhataram nu kim",
+    "Word_by_word": "avācya—unkind; vādān—fabricated words; ca—also; bahūn—many; vadiṣyanti —will say; tava—your; ahitāḥ—enemies; nindantah—while vilifying; tava— your; sāmarthyam—ability; tatah—thereafter; duhkhataram—more painful; nu —of course; kim—what is there.",
+    "Translation": "Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?",
+    "Purport": "Lord Krsna was astonished in the beginning at Arjuna's uncalled-for plea for compassion, and He described his compassion as befitting the non-Aryans. Now in so many words, He has proved His statements against Arjuna's so-called compassion."
+  },
+  "metadata": {
+    "source_file": "chapter02_verse_036.pdf",
+    "extraction_timestamp": "2025-07-05T17:26:49.496911",
+    "model_used": "gemini-2.5-flash"
+  }
+}

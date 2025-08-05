@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 11,
+    "Verse": 30,
+    "Sanskrit": "लेलिह्यसे ग्रसमानः समन्ता- लोकान्समग्रान्वदनैर्ध्वलद्भिः ।\nतेजोभिरापूर्य जगत्समग्रं भासस्तवोग्राः प्रतपन्ति विष्णो ॥ ३० ॥",
+    "Transliteration": "lelihyase grasamāṇaḥ samantāl\nlokān samagrān vadanair jvaladbhiḥ\ntejobhir āpūrya jagat samagram\nbhāsas tavogrāḥ pratapanti viṣṇo",
+    "Word_by_word": "lelihyase—licking; grasamāṇaḥ—devouring; samantāt—from all directions; lokān—people; samagrān—completely; vadanaiḥ—by the mouth; jvaladbhiḥ—with blazing; tejobhiḥ—by effulgence; āpūrya—covering; jagat—the universe; samagram—all; bhāsaḥ—illuminating; tava—Your; ugrāḥ—terrible; pratapanti—scorching; viṣṇo—O all-pervading Lord.",
+    "Translation": "O Viṣṇu, I see You devouring all people in Your flaming mouths and covering the universe with Your immeasurable rays. Scorching the worlds, You are manifest.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter11_verse_030.pdf",
+    "extraction_timestamp": "2025-07-05T18:38:42.601029",
+    "model_used": "gemini-2.5-flash"
+  }
+}

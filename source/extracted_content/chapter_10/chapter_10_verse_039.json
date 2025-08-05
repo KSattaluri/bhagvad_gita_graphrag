@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 10,
+    "Verse": 39,
+    "Sanskrit": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन ।\nन तदस्ति विना यत्स्यान्मया भूतं चराचरम् ॥ ३९ ॥",
+    "Transliteration": "yac cāpi sarva-bhūtānām\nbījaṁ tad ahaṁ arjuna\nna tad asti vinā yat syān\nmayā bhūtam carācaram",
+    "Word_by_word": "yat—whatever; ca—also; api—may be; sarva-bhūtānām—of all creations; bījam—the seed; tat—that; aham—I am; arjuna—O Arjuna; na—not; tat—that; asti—there is; vinā—without; yat—that; syāt—exists; mayā—by Me; bhūtam—created; carācaram—moving and unmoving.",
+    "Translation": "Furthermore, O Arjuna, I am the generating seed of all existences. There is no being—moving or unmoving—that can exist without Me.",
+    "Purport": "Everything has a cause, and that cause or seed of manifestation is Kṛṣṇa. Without Krsna's energy, nothing can exist; therefore He is called omnipotent. Without His potency, neither the movable nor the unmovable can exist. Whatever existence is not founded on the energy of Kṛṣṇa is called māyā, that which is not."
+  },
+  "metadata": {
+    "source_file": "chapter10_verse_039.pdf",
+    "extraction_timestamp": "2025-07-05T18:34:25.346135",
+    "model_used": "gemini-2.5-flash"
+  }
+}

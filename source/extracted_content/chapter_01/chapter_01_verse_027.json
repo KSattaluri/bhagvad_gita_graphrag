@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 1,
+    "Verse": 27,
+    "Sanskrit": "तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ।\nकृपया परयाविष्टो विषीदन्निदमब्रवीत् ॥ २७ ॥",
+    "Transliteration": "tān samīkṣya sa kaunteyaḥ\nsarvān bandhūn avasthitān\nkṛpayā parayāviṣṭo\nviṣīdann idam abravīt",
+    "Word_by_word": "tān—all of them; samīkṣya—after seeing; saḥ—he; kaunteyaḥ—the son of Kuntī; sarvān—all kinds of; bandhūn—relatives; avasthitān—situated; kṛpayā—by compassion; parayā—of a high grade; āviṣṭaḥ—overwhelmed by; viṣīdan—while lamenting; idam—thus; abravīt—spoke.",
+    "Translation": "When the son of Kuntī, Arjuna, saw all these different grades of friends and relatives, he became overwhelmed with compassion and spoke thus:",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter01_verse_027.pdf",
+    "extraction_timestamp": "2025-07-05T17:09:13.023110",
+    "model_used": "gemini-2.5-flash"
+  }
+}

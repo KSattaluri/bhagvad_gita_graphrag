@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 11,
+    "Verse": 25,
+    "Sanskrit": "दंष्ट्राकरालानि च ते मुखानि\nदृष्ट्चैव कालानलसन्निभानि ।\nदिशो न जाने न लभे च शर्म\nप्रसीद देवेश जगन्निवास ॥ २५ ॥",
+    "Transliteration": "damștrā-karālāni ca te mukhāni\ndṛṣṭvaiva kālānala-sannibhāni\ndiso na jāne na labhe ca śarma\nprasīda deveśa jagan-nivāsa",
+    "Word_by_word": "damstrā—teeth; karālāni—like that; ca—also; te—Your; mukhāni—faces;\ndṛṣṭvā—seeing; eva—thus; kālānala—the fire of death; sannibhāni—as if\nblazing; diśah—directions; na jāne—do not know; na labhe—nor obtain; ca\nśarma—and grace; prasīda—be pleased; deveśa—O Lord of all lords; jagat-\nnivāsa—refuge of the worlds.",
+    "Translation": "O Lord of lords, O refuge of the worlds, please be gracious to me. I cannot keep\nmy balance seeing thus Your blazing deathlike faces and awful teeth. In all\ndirections I am bewildered.",
+    "Purport": ""
+  },
+  "metadata": {
+    "source_file": "chapter11_verse_025.pdf",
+    "extraction_timestamp": "2025-07-05T18:38:15.498873",
+    "model_used": "gemini-2.5-flash"
+  }
+}

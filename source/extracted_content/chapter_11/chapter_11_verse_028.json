@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 11,
+    "Verse": 28,
+    "Sanskrit": "यथा नदीनां बहवोऽम्बुवेगाः समुद्रमेवाभिमुखा द्रवन्ति ।\nतथा तवामी नरलोकवीरा विशन्ति वक्राण्यभिविज्वलन्ति ॥ २८ ॥",
+    "Transliteration": "yathā nadīnām bahavo 'mbu-vegāh\nsamudram evābhimukhā dravanti\ntathā tavāmī nara-loka-vīrā\nviśanti vaktrāny abhivijvalanti",
+    "Word_by_word": "yathā—as; nadīnām—of the rivers; bahavaḥ—many; ambu-vegāh—waves of the waters; samudram—ocean; eva—certainly; abhimukhāh—towards; dravanti—gliding; tathā—similarly; tava—Your; amī—all those; nara-lokavīrāh—the kings of human society; viśanti—entering; vaktrāņi—into the mouths; abhivijvalanti—blazing.",
+    "Translation": "As the rivers flow into the sea, so all these great warriors enter Your blazing mouths and perish.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter11_verse_028.pdf",
+    "extraction_timestamp": "2025-07-05T18:38:30.658243",
+    "model_used": "gemini-2.5-flash"
+  }
+}

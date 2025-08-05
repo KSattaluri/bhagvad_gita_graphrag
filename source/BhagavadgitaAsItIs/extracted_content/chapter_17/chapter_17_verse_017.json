@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 17,
+    "Verse": 17,
+    "Sanskrit": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः ।\nअफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ॥ १७ ॥",
+    "Transliteration": "śraddhayā parayā taptam\ntapas tat tri-vidham naraiḥ\naphalākāṅkṣibhir yuktaiḥ\nsāttvikam paricakṣate",
+    "Word_by_word": "śraddhayā—with faith; parayā—transcendental; taptam—executed; tapaḥ—austerity; tat—that; tri-vidham—three kinds; naraiḥ—by men; aphala-ākāṅkṣibhiḥ—without desires for fruits; yuktaiḥ—engaged; sāttvikam—in the mode of goodness; pari-cakṣate—is called.",
+    "Translation": "This threefold austerity, practiced by men whose aim is not to benefit themselves materially but to please the Supreme, is of the nature of goodness.",
+    "Purport": ""
+  },
+  "metadata": {
+    "source_file": "chapter17_verse_017.pdf",
+    "extraction_timestamp": "2025-07-05T19:07:08.332007",
+    "model_used": "gemini-2.5-flash"
+  }
+}

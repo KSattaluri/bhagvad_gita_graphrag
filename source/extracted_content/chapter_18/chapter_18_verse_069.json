@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 18,
+    "Verse": 69,
+    "Sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ॥ ६९ ॥",
+    "Transliteration": "na ca tasmān manuṣyeșu\nkaścin me priya-kṛttamah\nbhavitā na ca me tasmād\nanyaḥ priyatarah bhuvi",
+    "Word_by_word": "na—never; ca—and; tasmāt—therefore; manuşyeșu—among mankind; kaścit —anyone; me—My; priya-kṛttamah—more dear; bhavitā—will become; na— no; ca—and; me—My; tasmāt—than him; anyah—other; priyatarah—dearer; bhuvi—in this world.",
+    "Translation": "There is no servant in this world more dear to Me than he, nor will there ever be one more dear.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter18_verse_069.pdf",
+    "extraction_timestamp": "2025-07-05T19:18:29.255906",
+    "model_used": "gemini-2.5-flash"
+  }
+}

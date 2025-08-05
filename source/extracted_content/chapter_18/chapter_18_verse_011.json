@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 18,
+    "Verse": 11,
+    "Sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ॥ ११ ॥",
+    "Transliteration": "na hi deha-bhṛtā śakyam\ntyaktum karmāṇy aśeṣataḥ\nyas tu karma-phala-tyāgī\nsa tyāgīty abhidhīyate",
+    "Word_by_word": "na—never; hi—certainly; deha-bhṛtā—of the embodied; śakyam—possible; tyaktum—to renounce; karmāṇi—activities of; aśeṣataḥ—altogether; yaḥ tu—anyone who; karma—work; phala—result; tyāgī—renouncer; saḥ—he; tyāgī—the renouncer; iti—thus; abhidhīyate—it is said.",
+    "Translation": "It is indeed impossible for an embodied being to give up all activities. Therefore it is said that he who renounces the fruits of action is one who has truly renounced.",
+    "Purport": "A person in Krsna consciousness acting in knowledge of his relationship with Kṛṣṇa is always liberated. Therefore he does not have to enjoy or suffer the results of his acts after death."
+  },
+  "metadata": {
+    "source_file": "chapter18_verse_011.pdf",
+    "extraction_timestamp": "2025-07-05T19:10:14.087232",
+    "model_used": "gemini-2.5-flash"
+  }
+}

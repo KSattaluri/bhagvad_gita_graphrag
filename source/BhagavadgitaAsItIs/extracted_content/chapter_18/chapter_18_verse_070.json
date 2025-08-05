@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 18,
+    "Verse": 70,
+    "Sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः । ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ॥ ७० ॥",
+    "Transliteration": "adhyesyate ca ya imam dharmyam samvādam āvayoh jñāna-yajñena tenāham iştah syām iti me matih",
+    "Word_by_word": "adhyesyate—will study; ca—also; yah—he; imam—this; dharmyam—sacred; samvādam—conversation; āvayoh—of ours; jñāna—knowledge; yajñena—by sacrifice; tena—by him; aham—I; iştah—worshiped; syām—shall be; iti—thus; me—My; matih—opinion.",
+    "Translation": "And I declare that he who studies this sacred conversation worships Me by his intelligence.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter18_verse_070.pdf",
+    "extraction_timestamp": "2025-07-05T19:18:36.116843",
+    "model_used": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 10,
+    "Verse": 41,
+    "Sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।\nतत्तदेवावगच्छ त्वं मम तेजोऽशसम्भवम् ॥ ४१ ॥",
+    "Transliteration": "yad yad vibhūtimat sattvam\nśrīmad ūrjitam eva vā\ntat tad evāvagaccha tvam\nmama tejo-'mśa-sambhavam",
+    "Word_by_word": "yat yat—whatever; vibhūti—opulences; mat—having; sattvam—existence; śrīmat—beautiful; ūrjitam—glorious; eva—certainly; vā—or; tat tat—all those; eva—certainly; avagaccha—you must know; tvam—you; mama—My; tejah—splendor; aṁśa—partly; sambhavam—born of.",
+    "Translation": "Know that all beautiful, glorious, and mighty creations spring from but a spark of My splendor.",
+    "Purport": "Any glorious or beautiful existence should be understood to be but a fragmental manifestation of Krsna's opulence, whether it be in the spiritual or material world. Anything extraordinarily opulent should be considered to represent Krsna's opulence."
+  },
+  "metadata": {
+    "source_file": "chapter10_verse_041.pdf",
+    "extraction_timestamp": "2025-07-05T18:34:41.253415",
+    "model_used": "gemini-2.5-flash"
+  }
+}

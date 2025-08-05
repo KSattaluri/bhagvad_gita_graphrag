@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 10,
+    "Verse": 22,
+    "Sanskrit": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥ २२ ॥",
+    "Transliteration": "vedānām sāma-vedo ’smi\ndevānām asmi vāsavaḥ\nindriyāṇāṁ manaś cāsmi\nbhūtānām asmi cetanā",
+    "Word_by_word": "vedānām—of all the Vedas; sāma-vedaḥ—the Sāma-veda; asmi—I am; devānām—of all the demigods; asmi—I am; vāsavaḥ—heavenly king; indriyāṇām—of all the senses; manaḥ—the mind; ca—also; asmi—I am; bhūtānām—of all living entities; asmi—I am; cetanā—the living force.",
+    "Translation": "Of the Vedas I am the Sāma-veda; of the demigods I am Indra; of the senses I am the mind, and in living beings I am the living force [knowledge].",
+    "Purport": "The difference between matter and spirit is that matter has no consciousness like the living entity; therefore this consciousness is supreme and eternal. Consciousness cannot be produced by a combination of matter."
+  },
+  "metadata": {
+    "source_file": "chapter10_verse_022.pdf",
+    "extraction_timestamp": "2025-07-05T18:31:42.727707",
+    "model_used": "gemini-2.5-flash"
+  }
+}

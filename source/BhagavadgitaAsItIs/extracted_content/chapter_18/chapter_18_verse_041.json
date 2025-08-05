@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 18,
+    "Verse": 41,
+    "Sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ॥ ४१ ॥",
+    "Transliteration": "brāhmaṇa-kṣatriya-viśām\nśūdrāṇāṁ ca parantapa\nkarmāņi pravibhaktāni\nsvabhāva-prabhavair guṇaiḥ",
+    "Word_by_word": "brāhmaṇa—the brāhmaṇas; kṣatriya—the kṣatriyas; viśām—the vaiśyas; śūdrāṇām—the śūdras; ca—and; parantapa—O subduer of the enemies; karmāṇi—activities; pravibhaktāni—are divided; svabhāva—own nature; prabhavaiḥ—born of; guṇaiḥ—by the modes of material nature.",
+    "Translation": "Brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distinguished by their qualities of work, O chastiser of the enemy, in accordance with the modes of nature.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter18_verse_041.pdf",
+    "extraction_timestamp": "2025-07-05T19:14:11.485601",
+    "model_used": "gemini-2.5-flash"
+  }
+}

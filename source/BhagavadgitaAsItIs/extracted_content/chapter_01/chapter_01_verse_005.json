@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 1,
+    "Verse": 5,
+    "Sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥",
+    "Transliteration": "dhṛṣṭaketuś cekitānah\nkāśirājaś ca vīryavān\npurujit kuntibhojaś ca\nśaibyaś ca nara-pungavah",
+    "Word_by_word": "dhṛṣṭaketuḥ—Dhṛṣṭaketu; cekitānaḥ—Cekitāna; kāśirājaḥ—Kāśirāja; ca—also; vīryavān—very powerful; purujit—Purujit; kuntibhojaḥ—Kuntibhoja; ca—and; śaibyaḥ—Śaibya; ca—and; nara-puṅgavaḥ—heroes in human society.",
+    "Translation": "There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja and Śaibya.",
+    "Purport": ""
+  },
+  "metadata": {
+    "source_file": "chapter01_verse_005.pdf",
+    "extraction_timestamp": "2025-07-05T17:06:29.204869",
+    "model_used": "gemini-2.5-flash"
+  }
+}

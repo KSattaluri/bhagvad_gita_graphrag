@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 17,
+    "Verse": 19,
+    "Sanskrit": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः । परस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ॥ १९ ॥",
+    "Transliteration": "mūdha-grāheņātmano yat\npīdayā kriyate tapaḥ\nparasyotsādanārthaṁ vā\ntat tāmasam udāhṛtam",
+    "Word_by_word": "mūdha—foolish; grāheṇa—with endeavor; ātmanaḥ—of one’s own self; yat—which; pīḍayā—by torture; kriyate—is performed; tapaḥ—penance; parasya—to others; utsādanārtham—causing annihilation; vā—or; tat—that; tāmasam—in the mode of darkness; udāhṛtam—is said to be.",
+    "Translation": "And those penances and austerities which are performed foolishly by means of obstinant self-torture, or to destroy or injure others, are said to be in the mode of ignorance.",
+    "Purport": "There are instances of foolish penance undertaken by demons like Hiranyakaśipu, who performed austere penances to become immortal and kill the demigods. He prayed to Brahmā for such things, but ultimately he was killed by the Supreme Personality of Godhead. To undergo penances for something which is impossible is certainly in the mode of ignorance."
+  },
+  "metadata": {
+    "source_file": "chapter17_verse_019.pdf",
+    "extraction_timestamp": "2025-07-05T19:07:22.749549",
+    "model_used": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 1,
+    "Verse": 23,
+    "Sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥ २३ ॥",
+    "Transliteration": "yotsyamānān avekșe 'ham\nya ete 'tra samāgatāḥ\ndhārtarāștrasya durbuddher\nyuddhe priya-cikīrṣavah",
+    "Word_by_word": "yotsyamānān—those who will be fighting; avekșe—let me see; aham—I; ye—\nwho; ete—those; atra—here; samāgatāḥ—assembled; dhārtarāștrasya—the son\nof Dhṛtarāstra; durbuddheh—evil-minded; yuddhe—in the fight; priya—well;\ncikīrsavah—wishing.",
+    "Translation": "Let me see those who have come here to fight, wishing to please the evil-\nminded son of Dhṛtarāstra.",
+    "Purport": "It was an open secret that Duryodhana wanted to usurp the kingdom of the\nPāndavas by evil plans, in collaboration with his father, Dhṛtarāstra.\nTherefore, all persons who had joined the side of Duryodhana must have been\nbirds of the same feather. Arjuna wanted to see them in the battlefield before\nthe fight was begun, just to learn who they were, but he had no intention of\nproposing peace negotiations with them. It was also a fact that he wanted to\nsee them to make an estimate of the strength which he had to face, although\nhe was quite confident of victory because Kṛṣṇa was sitting by his side."
+  },
+  "metadata": {
+    "source_file": "chapter01_verse_023.pdf",
+    "extraction_timestamp": "2025-07-05T17:08:37.799663",
+    "model_used": "gemini-2.5-flash"
+  }
+}

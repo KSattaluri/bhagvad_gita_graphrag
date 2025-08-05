@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 10,
+    "Verse": 32,
+    "Sanskrit": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन ।\nअध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ॥ ३२ ॥",
+    "Transliteration": "sargāṇām ādir antaś ca\nmadhyam caivāham arjuna |\nadhyātma-vidyā vidyānām\nvādaḥ pravadatām aham || 32 ||",
+    "Word_by_word": "sargānām — of all creations; ādiḥ — beginning; antaḥ — end; ca — and; madhyam — middle; ca — also; eva — certainly; aham — I am; arjuna — O Arjuna; adhyātma-vidyā — spiritual knowledge; vidyānām — of all education; vādaḥ — natural conclusion; pravadatām — of arguments; aham — I am.",
+    "Translation": "Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the Self, and among logicians I am the conclusive truth.",
+    "Purport": "Among created manifestations, the total material elements are first created by Mahā-Vişnu and are annihilated by Lord Śiva. Brahmā is the secondary creator. All these created elements are different incarnations of the material qualities of the Supreme Lord; therefore He is the beginning, the middle and the end of all creation.\nRegarding the spiritual science of the Self, there are many literatures, such as the four Vedas, the Vedānta-sūtra and the Purāṇas, the Śrīmad-Bhāgavatam and the Gītā. These are all representatives of Krsna. Among logicians there are different stages of argument. The presentation of evidence is called jaра. The attempt to defeat one another is called vitanda, and the final conclusion is called vāda. The conclusive truth, the end of all reasoning processes, is Krsna."
+  },
+  "metadata": {
+    "source_file": "chapter10_verse_032.pdf",
+    "extraction_timestamp": "2025-07-05T18:33:05.005448",
+    "model_used": "gemini-2.5-flash"
+  }
+}

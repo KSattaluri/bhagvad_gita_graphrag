@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 17,
+    "Verse": 22,
+    "Sanskrit": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते ।\nअसत्कृतमवज्ञातं तत्तामसमुदाहृतम् ॥ २२ ॥",
+    "Transliteration": "adeśa-kāle yad dānam\napātrebhyaś ca dīyate\nasat-kṛtam avajñātam\ntat tāmasam udāhṛtam",
+    "Word_by_word": "adesa—unpurified place; kāle—unpurified time; yat—that which is; dānam—\ncharity; apātrebhyaḥ—to unworthy persons; ca—also; dīyate—is given;\nasatkṛtam—without respect; avajñātam—without proper attention; tat—that;\ntāmasam—in the mode of darkness; udāhṛtam—is said to be.",
+    "Translation": "And charity performed at an improper place and time and given to unworthy\npersons without respect and with contempt is charity in the mode of ignorance.",
+    "Purport": "Contributions for indulgence in intoxication and gambling are not\nencouraged here. That sort of contribution is in the mode of ignorance. Such\ncharity is not beneficial; rather, sinful persons are encouraged. Similarly, if a\nperson gives charity to a suitable person without respect and without\nattention, that sort of charity is also said to be in the mode of darkness."
+  },
+  "metadata": {
+    "source_file": "chapter17_verse_022.pdf",
+    "extraction_timestamp": "2025-07-05T19:07:46.398515",
+    "model_used": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 1,
+    "Verse": 4,
+    "Sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥",
+    "Transliteration": "atra śūrā maheṣv-āsā\nbhīmārjuna-samā yudhi\nyuyudhāno virāṭaś ca\ndrupadaś ca mahā-rathah",
+    "Word_by_word": "atra—here; śūrāḥ—heroes; maheṣvāsāḥ—mighty bowmen; bhīma-arjuna—Bhīma and Arjuna; samāḥ—equal; yudhi—in the fight; yuyudhānah—Yuyudhāna; virāṭaḥ—Virāta; ca—also; drupadah—Drupada; ca—also; mahārathah—great fighter.",
+    "Translation": "Here in this army there are many heroic bowmen equal in fighting to Bhīma and Arjuna; there are also great fighters like Yuyudhāna, Virāṭa and Drupada.",
+    "Purport": "Even though Dhrstadyumna was not a very important obstacle in the face of Dronācārya's very great power in the military art, there were many others who were the cause of fear. They are mentioned by Duryodhana as great stumbling blocks on the path of victory because each and every one of them was as formidable as Bhīma and Arjuna. He knew the strength of Bhima and Arjuna, and thus he compared the others with them."
+  },
+  "metadata": {
+    "source_file": "chapter01_verse_004.pdf",
+    "extraction_timestamp": "2025-07-05T16:54:58.433739",
+    "model_used": "gemini-2.5-flash"
+  }
+}

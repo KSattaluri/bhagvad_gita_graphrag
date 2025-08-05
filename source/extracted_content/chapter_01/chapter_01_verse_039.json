@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 1,
+    "Verse": 39,
+    "Sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥ ३९ ॥",
+    "Transliteration": "kula-kṣaye praṇaśyanti\nkula-dharmāḥ sanātanāḥ\ndharme naṣṭe kulaṁ kṛtsnam\nadharmo 'bhibhavaty uta",
+    "Word_by_word": "kula-kṣaye—in destroying the family; praṇaśyanti—becomes vanquished; kula-dharmāḥ—the family traditions; sanātanāḥ—eternal; dharme—in religion; naṣṭe—being destroyed; kulam—family; kṛtsnam—wholesale; adharmaḥ—irreligious; abhibhavati—transforms; uta—it is said.",
+    "Translation": "With the destruction of dynasty, the eternal family tradition is vanquished, and thus the rest of the family becomes involved in irreligious practice.",
+    "Purport": "In the system of the varṇāśrama institution there are many principles of religious traditions to help members of the family grow properly and attain spiritual values. The elder members are responsible for such purifying processes in the family, beginning from birth to death. But on the death of the elder members, such family traditions of purification may stop, and the remaining younger family members may develop irreligious habits and thereby lose their chance for spiritual salvation. Therefore, for no purpose should the elder members of the family be slain."
+  },
+  "metadata": {
+    "source_file": "chapter01_verse_039.pdf",
+    "extraction_timestamp": "2025-07-05T17:17:27.536289",
+    "model_used": "gemini-2.5-flash"
+  }
+}

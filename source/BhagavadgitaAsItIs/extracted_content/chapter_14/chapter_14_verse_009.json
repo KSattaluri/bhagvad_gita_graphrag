@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 14,
+    "Verse": 9,
+    "Sanskrit": "सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत ।\nज्ञानमावृत्य तु तमः प्रमादे सञ्चयत्युत ॥ ९ ॥",
+    "Transliteration": "sattvam sukhe sañjayati\nrajah karmani bhārata\njñānam āvṛtya tu tamah\npramāde sañjayaty uta",
+    "Word_by_word": "sattvam—mode of goodness; sukhe—in happiness; sañjayati—develops; rajah—mode of passion; karmani—fruits of activities; bhārata—O son of Bharata; jñānam—knowledge; āvṛtya—covering; tu—but; tamah—the mode of ignorance; pramāde—in madness; sañjayaty—develops; uta—it is said.",
+    "Translation": "The mode of goodness conditions one to happiness, passion conditions him to the fruits of action, and ignorance to madness.",
+    "Purport": "A person in the mode of goodness is satisfied by his work or intellectual pursuit, just as a philosopher, scientist, or educator may be engaged in a particular field of knowledge and may be satisfied in that way. A man in the modes of passion and goodness may be engaged in fruitive activity; he owns as much as he can and spends for good causes. Sometimes he tries to open hospitals, give to charity institutions, etc. These are the signs of one in the mode of passion. And the mode of ignorance covers knowledge. In the mode of ignorance, whatever one does is neither good for him nor for anyone."
+  },
+  "metadata": {
+    "source_file": "chapter14_verse_009.pdf",
+    "extraction_timestamp": "2025-07-05T18:54:51.746193",
+    "model_used": "gemini-2.5-flash"
+  }
+}

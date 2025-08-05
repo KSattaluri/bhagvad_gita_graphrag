@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 18,
+    "Verse": 34,
+    "Sanskrit": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।\nप्रसङ्गेन फलाकाङ्गी धृतिः सा पार्थ राजसी ॥ ३४ ॥",
+    "Transliteration": "yayā tu dharma-kāmārthān\ndhṛtyā dhārayate 'rjuna\nprasangena phalākānkṣī\ndhṛtiḥ sā pārtha rājasī",
+    "Word_by_word": "yayā—by which; tu—but; dharma-kāma-arthān—for religiosity and economic development; dhṛtyā—by determination; dhārayate—in such terms; arjuna—O Arjuna; prasangena—for that; phala-ākānkṣī—desiring fruitive result; dhṛtiḥ—determination; sā—that; pārtha—O son of Pṛthā; rājasī—in the mode of passion.",
+    "Translation": "And that determination by which one holds fast to fruitive result in religion, economic development and sense gratification is of the nature of passion, O Arjuna.",
+    "Purport": "Any person who is always desirous of fruitive results in religious or economic activities, whose only desire is sense gratification, and whose mind, life and senses are thus engaged, is in the mode of passion."
+  },
+  "metadata": {
+    "source_file": "chapter18_verse_034.pdf",
+    "extraction_timestamp": "2025-07-05T19:13:20.330545",
+    "model_used": "gemini-2.5-flash"
+  }
+}

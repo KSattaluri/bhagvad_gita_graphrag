@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 11,
+    "Verse": 9,
+    "Sanskrit": "सञ्जय उवाच\nएवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः ।\nदर्शयामास पार्थाय परमं रूपमैश्वरम् ॥ ९ ॥",
+    "Transliteration": "sañjaya uvāca\nevam uktvā tato rājan\nmahā-yogeśvaro harih\ndarśayām āsa pārthāya\nparamam rūpam aiśvaram",
+    "Word_by_word": "sañjayah uvāca—Sanjaya said; evam—thus; uktvā—saying; tatah—thereafter; rājan—O King; mahā-yogeśvarah—the most powerful mystic; harih—the Supreme Personality of Godhead, Kṛṣṇa; darśayāmāsa—showed; pārthāya—unto Arjuna; paramam—divine; rūpam—universal form; aiśvaram—opulences.",
+    "Translation": "Sañjaya said: O King, speaking thus, the Supreme, the Lord of all mystic power, the Personality of Godhead, displayed His universal form to Arjuna.",
+    "Purport": ""
+  },
+  "metadata": {
+    "source_file": "chapter11_verse_009.pdf",
+    "extraction_timestamp": "2025-07-05T18:36:07.771229",
+    "model_used": "gemini-2.5-flash"
+  }
+}

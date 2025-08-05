@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 18,
+    "Verse": 45,
+    "Sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ॥ ४५ ॥",
+    "Transliteration": "sve sve karmaṇy abhirataḥ\nsaṁsiddhiṁ labhate naraḥ |\nsva-karma-nirataḥ siddhiṁ\nyathā vindati tac chṛṇu || 45 ||",
+    "Word_by_word": "sve—own; sve—own; karmaṇi—in work; abhirataḥ—following; saṁsiddhim—perfection; labhate—achieves; naraḥ—a man; svakarma—by his own duty; nirataḥ—engaged; siddhim—perfection; yathā—as; vindati—attains, tat—that; śṛṇu—listen.",
+    "Translation": "By following his qualities of work, every man can become perfect. Now please hear from Me how this can be done.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter18_verse_045.pdf",
+    "extraction_timestamp": "2025-07-05T19:14:40.972979",
+    "model_used": "gemini-2.5-flash"
+  }
+}

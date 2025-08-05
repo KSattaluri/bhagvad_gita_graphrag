@@ -1,0 +1,16 @@
+{
+  "verse_content": {
+    "Chapter": 8,
+    "Verse": 19,
+    "Sanskrit": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते ।\nरात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ॥ १९ ॥",
+    "Transliteration": "bhūta-grāmaḥ sa evāyam\nbhūtvā bhūtvā pralīyate\nrātry-āgame 'vaśaḥ pārtha\nprabhavaty ahar-āgame",
+    "Word_by_word": "bhūta-grāmaḥ—the aggregate of all living entities; saḥ—they; eva—certainly; ayam—this; bhūtvā bhūtvā—taking birth; pralīyate—annihilate; rātri—night; āgame—on arrival; avaśaḥ—automatically; pārtha—O son of Pṛthā; prabhavanti—manifest; ahaḥ—during daytime; āgame—on arrival.",
+    "Translation": "Again and again the day comes, and this host of beings is active; and again the night falls, O Pārtha, and they are helplessly dissolved.",
+    "Purport": null
+  },
+  "metadata": {
+    "source_file": "chapter08_verse_019.pdf",
+    "extraction_timestamp": "2025-07-05T18:19:30.950446",
+    "model_used": "gemini-2.5-flash"
+  }
+}
